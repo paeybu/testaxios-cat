@@ -6,4 +6,6 @@
 
 ## How to run
 
-Type node index
+Clone this repo
+Run: `npm i`
+Type: `node index`
